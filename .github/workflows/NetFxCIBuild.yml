@@ -23,4 +23,4 @@ jobs:
       run: nuget restore PAGEDEMO.sln
       
     - name: Build the Solution
-      run: msbuild PAGEDEMO.sln
+      run: msbuild PAGEDEMO.sln /p:DeployOnBuild=true /p:PublishProfile=Test
