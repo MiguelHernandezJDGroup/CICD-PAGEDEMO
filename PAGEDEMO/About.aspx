@@ -4,5 +4,6 @@
     <h2><%: Title %>.</h2>
     <h3>Your application description page.</h3>
     <p>Use this area to provide additional information.</p>
+    <p>JDGROUP Company</p>
     <p>Tres tristes tigres tragaban trigo en un trigal</p>
 </asp:Content>
