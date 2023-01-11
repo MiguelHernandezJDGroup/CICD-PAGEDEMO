@@ -38,6 +38,15 @@
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
             </p>
         </div>
+            <div class="col-md-4">
+            <h2>Pagina de prueba</h2>
+            <p>
+                Texto de prueba
+            </p>
+            <p>
+                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+            </p>
+        </div>
     </div>
 
 </asp:Content>
