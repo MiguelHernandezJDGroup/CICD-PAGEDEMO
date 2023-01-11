@@ -16,6 +16,9 @@
             A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
             </p>
             <p>
+                Edit default for test branch.
+            </p>
+            <p>
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
             </p>
         </div>
@@ -51,9 +54,26 @@
             <h2>Direccion</h2>
             <p>
                 Avenida Alamar
+                This is a test with branch in Github.
             </p>
             <p>
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+            </p>
+        </div>
+        <div class="col-md-4">
+            <h2>Concentrado de Ramas</h2>
+            <p>
+                Cambios en la misma pagina para concentrar los cambios.
+            </p>
+            <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+        </div>
+            <div class="col-md-4">
+            <h2>Tacos el paisano</h2>
+            <p>
+                You can eat Tacos
+            </p>
+            <p>
+                <a class="btn btn-default" href="https://tacoselpaisano.com/">Saber mas... &raquo;</a>
             </p>
         </div>
     </div>
