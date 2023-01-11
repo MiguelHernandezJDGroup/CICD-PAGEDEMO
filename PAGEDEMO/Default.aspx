@@ -37,6 +37,15 @@
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
             </p>
         </div>
+        <div>
+            <h2>Direccion</h2>
+            <p>
+                Avenida Alamar
+            </p>
+            <p>
+                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+            </p>
+        </div>
     </div>
 
 </asp:Content>
