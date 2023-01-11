@@ -32,26 +32,9 @@
             <h2>Web Hosting</h2>
             <p>
                 You can easily find a web hosting company that offers the right mix of features and price for your applications.
-                This is a test with branch in Github.
             </p>
             <p>
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Concentrado de Ramas</h2>
-            <p>
-                Cambios en la misma pagina para concentrar los cambios.
-            </p>
-            <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
-        </div>
-            <div class="col-md-4">
-            <h2>Tacos el paisano</h2>
-            <p>
-                You can eat Tacos
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://tacoselpaisano.com/">Saber mas... &raquo;</a>
             </p>
         </div>
     </div>
