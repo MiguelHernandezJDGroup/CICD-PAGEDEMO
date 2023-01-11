@@ -38,6 +38,13 @@
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
             </p>
         </div>
+        <div class="col-md-4">
+            <h2>Concentrado de Ramas</h2>
+            <p>
+                Cambios en la misma pagina para concentrar los cambios.
+            </p>
+            <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+        </div>
     </div>
 
 </asp:Content>
