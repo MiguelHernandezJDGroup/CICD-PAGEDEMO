@@ -5,11 +5,17 @@
     <h3>Your contact page.</h3>
     <address>
         One Microsoft Way<br />
+        Hipolito Software Developer in JDGROUP<br />
         Redmond, WA 98052-6399<br />
         <abbr title="Phone">P:</abbr>
         425.555.0100
     </address>
-
+        <address>
+        Taqueria el cochiloko<br />
+        Real de san fransisco<br />
+        <abbr title="Phone">P:</abbr>
+        666.666.6666
+    </address>
     <address>
         <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
         <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
